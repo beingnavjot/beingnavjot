@@ -16,7 +16,6 @@ I am a **Senior Mobile Application Developer** with over 6 years of experience b
 - 📱 **Mobile Specialist:** Expert in Flutter, Java, and Kotlin.
 - 🏗️ **Backend Architect:** Scaling applications with Node.js and NestJS.
 - 🌍 **Current Goal:** Seeking innovative Flutter development opportunities.
-- 🛠️ **Notable Projects:** Vires Fitness, Meeting Spotlight, and Playidy™.
 
 ---
 
