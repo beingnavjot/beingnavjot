@@ -1,7 +1,7 @@
 # Hi there, I'm Navjot Singh 👋 
 
 <div align="center">
-  <img src="https://github.com/beingnavjot/beingnavjot/blob/main/desk-setup.png" width="900" alt="Navjot's Workspace" style="border-radius: 15px;" />
+  <img src="https://github.com/beingnavjot/beingnavjot/blob/main/desk-setup.png" height="500" width="900" alt="Navjot's Workspace" style="border-radius: 15px;" />
 </div>
 
 <br/>
