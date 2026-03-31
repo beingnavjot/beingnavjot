@@ -42,7 +42,7 @@ I am a **Senior Mobile Application Developer** with over 6 years of experience b
 ### 📫 Let's Connect!
 - 📄 **Professional Portfolio:** [View My Resume & Projects](https://bold.pro/my/navjot-singh-25081?vsid=6a13a4da-05c7-4213-844f-8d1876b67837)
 - 💼 **LinkedIn:** [linkedin.com/in/beingnavjot](https://linkedin.com/in/beingnavjot)
-- 📧 **Get in Touch:** [navjot@example.com](mailto:your-email@example.com)
+- 📧 **Get in Touch:** [navjot25081@gmail.com](mailto:navjot25081@gmail.com)
 
 ---
 <p align="center">
