@@ -1,15 +1,12 @@
 # Hi there, I'm Navjot Singh 👋 
 
 <div align="center">
-  <img src="https://googleusercontent.com/image_generation_content/0" width="900" alt="Navjot's Workspace" style="border-radius: 15px;" />
+  <img src="https://github.com/beingnavjot/beingnavjot/blob/main/desk-setup.png" width="900" alt="Navjot's Workspace" style="border-radius: 15px;" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beingnavjot&show_icons=true&theme=radical" alt="Navjot's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingnavjot&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+
 
 ---
 
